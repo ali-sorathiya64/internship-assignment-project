@@ -47,6 +47,12 @@ This project demonstrates the integration of CometChat UI Kit Builder in a React
 
 *Click to watch the demo video*
 
+## 🌐 Live Demo
+
+[**View Live Application**](https://cometchat-assignment-three.vercel.app/)
+
+Experience the fully deployed CometChat integration with real-time messaging functionality.
+
 ---
 
 ## 🚀 Quick Start
