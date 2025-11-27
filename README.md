@@ -31,19 +31,19 @@ This project demonstrates the integration of CometChat UI Kit Builder in a React
 <div align="center">
   
 ### Dashboard View
-<img src="assets/screenshot1.jpg" width="400" alt="Dashboard View" />
+<img src="src/CometChat/assets/screenshot1.jpg" width="400" alt="Dashboard View" />
 
 ### Chat Interface
-<img src="assets/screenshot2.jpg" width="400" alt="Chat Interface" />
+<img src="src/CometChat/assets/screenshot2.jpg" width="400" alt="Chat Interface" />
 
 ### Mobile Responsive View
-<img src="assets/screenshot3.jpg" width="200" alt="Mobile View" />
+<img src="src/CometChat/assets/screenshot3.jpg" width="200" alt="Mobile View" />
 
 </div>
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](assets/video.mp4)](assets/video.mp4)
+[![Watch the Demo](src/CometChat/assets/video.mp4)](src/CometChat/assets/video.mp4)
 
 *Click to watch the demo video*
 
