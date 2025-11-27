@@ -43,7 +43,7 @@ This project demonstrates the integration of CometChat UI Kit Builder in a React
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](src/CometChat/assets/video.mp4)](src/CometChat/assets/video.mp4)
+[![Watch the Demo](src/CometChat/assets/demoVideo.mp4)](src/CometChat/assets/demoVideo.mp4)
 
 *Click to watch the demo video*
 
