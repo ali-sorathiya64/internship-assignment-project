@@ -10,6 +10,59 @@
   <img alt="typescript" src="https://img.shields.io/badge/typescript-supported-blue" />
 </p>
 
+<p align="center">
+  <img alt="CometChat" src="https://assets.cometchat.io/website/images/logos/banner.png">
+</p>
+
+<p>
+  <img alt="version" src="https://img.shields.io/badge/version-v1.0.17-blue" />
+  <img alt="status" src="https://img.shields.io/badge/status-stable-brightgreen" />
+  <img alt="react" src="https://img.shields.io/badge/react-supported-61DAFB?logo=react" />
+  <img alt="vite" src="https://img.shields.io/badge/vite-supported-646CFF?logo=vite" />
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-supported-blue" />
+</p>
+
+# CometChat UI Kit Implementation - Internship Assignment
+
+This project demonstrates the integration of CometChat UI Kit Builder in a React application as part of the CometChat internship assignment.
+
+## 🖼️ Screenshots
+
+<div align="center">
+  
+### Dashboard View
+<img src="assets/screenshot1.jpg" width="400" alt="Dashboard View" />
+
+### Chat Interface
+<img src="assets/screenshot2.jpg" width="400" alt="Chat Interface" />
+
+### Mobile Responsive View
+<img src="assets/screenshot3.jpg" width="200" alt="Mobile View" />
+
+</div>
+
+## 🎥 Demo Video
+
+[![Watch the Demo](assets/video.mp4)](assets/video.mp4)
+
+*Click to watch the demo video*
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js (version 14 or higher)
+- npm or yarn
+- CometChat account with App ID, Region, and Auth Key
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ali-sorathiya64/internship-assignment-project.git
+   cd internship-assignment-project
+
 # Integration steps for UI Kit Builder
 
 Follow these steps to integrate it into your existing React project:
