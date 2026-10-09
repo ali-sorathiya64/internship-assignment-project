@@ -19,9 +19,7 @@ function App() {
   const getLoggedInUser = CometChatUIKitLoginListener?.getLoggedInUser();
   useThemeStyles(styleFeatures, systemTheme, setStyleFeatures,loggedInUser);
 
-  /**
-   * Effect to handle login and logout listeners
-   */
+  
   useEffect(() => {
     CometChat.addLoginListener(
       "runnable-sample-app",
