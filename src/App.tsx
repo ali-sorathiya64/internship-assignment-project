@@ -13,10 +13,7 @@ import useThemeStyles from "CometChat/customHook/useThemeStyles";
 function App() {
   const [loggedInUser, setLoggedInUser] = useState<CometChat.User | null>(null);
 
-  /**
-   * State to store the logged-in user
-   * @type {[CometChat.User | null, Function]}
-   */
+  
   const { styleFeatures, setStyleFeatures } = useCometChatContext();
   const systemTheme = useSystemColorScheme();
   const getLoggedInUser = CometChatUIKitLoginListener?.getLoggedInUser();
