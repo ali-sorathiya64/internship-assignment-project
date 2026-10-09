@@ -11,7 +11,7 @@ const useSystemColorScheme = (): 'light' | 'dark' => {
     // Set initial color scheme based on system preference
     setColorScheme(mediaQuery.matches ? 'dark' : 'light');
 
-    // Listen for changes to the color scheme preference
+    
     const handleChange = (e: MediaQueryListEvent) => {
       setColorScheme(e.matches ? 'dark' : 'light');
     };
