@@ -5,7 +5,7 @@ const useSystemColorScheme = (): 'light' | 'dark' => {
   const [colorScheme, setColorScheme] = useState<'light' | 'dark'>('light');
 
   useEffect(() => {
-    // Check the current system color scheme
+    
     const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
 
     // Set initial color scheme based on system preference
