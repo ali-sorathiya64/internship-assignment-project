@@ -1,10 +1,6 @@
 import { useEffect, useState } from 'react';
 
-/**
- * A custom hook that detects and returns the system's preferred color scheme.
- *
- * @returns {'light' | 'dark'} The current system color scheme.
- */
+
 const useSystemColorScheme = (): 'light' | 'dark' => {
   const [colorScheme, setColorScheme] = useState<'light' | 'dark'>('light');
 
