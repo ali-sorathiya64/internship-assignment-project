@@ -8,7 +8,7 @@ const useSystemColorScheme = (): 'light' | 'dark' => {
     
     const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
 
-    // Set initial color scheme based on system preference
+    
     setColorScheme(mediaQuery.matches ? 'dark' : 'light');
 
     
