@@ -18,7 +18,7 @@ const useSystemColorScheme = (): 'light' | 'dark' => {
 
     mediaQuery.addEventListener('change', handleChange);
 
-    // Clean up the listener when the component is unmounted
+    
     return () => {
       mediaQuery.removeEventListener('change', handleChange);
     };
