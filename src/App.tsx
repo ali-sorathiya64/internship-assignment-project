@@ -38,9 +38,7 @@ function App() {
     return () => CometChat.removeLoginListener("runnable-sample-app");
   }, []);
 
-  /**
-   * Effect to set the logged-in user from CometChat UIKit
-   */
+  
   useEffect(() => {
     setLoggedInUser(getLoggedInUser);
   }, [getLoggedInUser]);
